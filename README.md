@@ -4,6 +4,6 @@ Myths is a multiplayer strategy game with four players simulating the mystery of
 ## Download Demo
  - [Click to Download](https://1drv.ms/u/s!Ai9z8mPSceQOhiQGv2yu9Bn1SF9w?e=OOFtnk)
  - Demo need 4 Player to play a game
-![menu](/picture/BGC02.JPG)
+![logo](/picture/BGC02.jpg)
 ![Standby](/picture/Standby.JPG)
 ![Gameplay](/picture/Gameplay.JPG)
